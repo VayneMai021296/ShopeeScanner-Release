@@ -1,8 +1,13 @@
 # Bỏ qua tất cả các file mặc định
-*
+*.xml
+*.lic
+*.application
+*.config
+*.manifest
+*.pdb
 # Bỏ qua tất cả file .dll (để đảm bảo các .dll không mong muốn bị loại)
 *.dll
-
+*DataBase/*
 # Giữ lại các file .dll cụ thể
 !Scanner/Scanner/bin/Release/avcodec-57.dll
 !Scanner/Scanner/bin/Release/avdevice-57.dll
@@ -15,5 +20,7 @@
 
 # Nhưng giữ lại các file và .exe
 !*.exe
+
+# giữ lại folder images
 
 
