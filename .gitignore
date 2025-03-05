@@ -1,0 +1,9 @@
+# Bỏ qua tất cả các file mặc định
+*
+
+# Nhưng giữ lại các file .dll và .exe
+!*.dll
+!*.exe
+
+# Nếu muốn giữ lại thư mục chứa DLL/EXE, thêm dòng này
+!*/  
