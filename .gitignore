@@ -1,9 +1,19 @@
 # Bỏ qua tất cả các file mặc định
 *
+# Bỏ qua tất cả file .dll (để đảm bảo các .dll không mong muốn bị loại)
+*.dll
 
-# Nhưng giữ lại các file .dll và .exe
-!*.dll
+# Giữ lại các file .dll cụ thể
+!Scanner/Scanner/bin/Release/avcodec-57.dll
+!Scanner/Scanner/bin/Release/avdevice-57.dll
+!Scanner/Scanner/bin/Release/avfilter-6.dll
+!Scanner/Scanner/bin/Release/avformat-57.dll
+!Scanner/Scanner/bin/Release/avutil-55.dll
+!Scanner/Scanner/bin/Release/postproc-54.dll
+!Scanner/Scanner/bin/Release/swresample-2.dll
+!Scanner/Scanner/bin/Release/swscale-4.dll
+
+# Nhưng giữ lại các file và .exe
 !*.exe
 
-# Nếu muốn giữ lại thư mục chứa DLL/EXE, thêm dòng này
-!*/  
+
