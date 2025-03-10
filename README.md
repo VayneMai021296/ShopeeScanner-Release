@@ -9,7 +9,12 @@
 ```
 
 ```
-* 3. The application automatically updates to the latest version when an update barcode is scanned.
+* 3. The application allows you to choose whether to save the video with the order ID as the filename
+
+```
+
+```
+* 4. The application automatically updates to the latest version when an update barcode is scanned.
 
 ```
 
@@ -38,4 +43,7 @@ git clone https://github.com/VayneMai021296/ShopeeScanner-Release.git
 <img src="images/3.jpg" alt="Screenshot" width="auto" height="auto"><br>
 <img src="images/4.jpg" alt="Screenshot" width="auto" height="auto"><br>
 <img src="images/5.jpg" alt="Screenshot" width="auto" height="auto"><br>
+<img src="images/6.jpg" alt="Screenshot" width="auto" height="auto"><br>
+<img src="images/7.jpg" alt="Screenshot" width="auto" height="auto"><br>
+
 
