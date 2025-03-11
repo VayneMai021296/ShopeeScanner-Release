@@ -1,4 +1,9 @@
 # ShopeeScanner-Release
+
+## Video Demo Sản phần 
+*[Link_Demo_ShopeeScanner](https://youtu.be/Wf74l-4gErU)*
+
+
 ###  Giới thiệu và mô tả tính năng 
 ```
 1. Ứng dụng này được tạo ra với mục đích hỗ trợ ghi hình quá trình đóng gói sản phẩm bằng cách sử dụng máy quét mã vạch thông qua giao tiếp USB-COM.
@@ -51,5 +56,8 @@ git clone https://github.com/VayneMai021296/ShopeeScanner-Release.git
 <img src="images/5.jpg" alt="Screenshot" width="auto" height="auto"><br>
 <img src="images/6.jpg" alt="Screenshot" width="auto" height="auto"><br>
 <img src="images/7.jpg" alt="Screenshot" width="auto" height="auto"><br>
+<img src="images/8.jpg" alt="Screenshot" width="auto" height="auto"><br>
+<img src="images/9.jpg" alt="Screenshot" width="auto" height="auto"><br>
+
 
 
