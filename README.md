@@ -1,7 +1,7 @@
 # ShopeeScanner-Release
 
 ## Video Demo Sản phần 
-*[Link_Demo_ShopeeScanner](https://www.youtube.com/watch?v=tX6lUaeMZ7E)*
+*[Link_Demo_ShopeeScanner](https://youtu.be/QL1MZo9gIO8)*
 
 
 ###  Giới thiệu và mô tả tính năng 
