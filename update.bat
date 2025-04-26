@@ -35,7 +35,7 @@
                             echo Dang goi file start_scanner.bat...
 
                             :: Goi file start_scanner.bat
-                            start "" "%~dp0start_scanner.bat"
+                            start "" "%~dp0Scanner"
 
                             goto END
 
