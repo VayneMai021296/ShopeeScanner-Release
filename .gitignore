@@ -8,6 +8,8 @@
 # Bỏ qua tất cả file .dll (để đảm bảo các .dll không mong muốn bị loại)
 *.dll
 *DataBase/*
+*log/*
+*error_log_*
 # Giữ lại các file .dll cụ thể
 !avcodec-57.dll
 !avdevice-57.dll
